@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohamed Shakir</h1>
-<h3 align="center">BSc in Information Technology | Software Engineer | AI/ML Enthusiast | Open Source Contributor </h3>
+<h1 align="justify">Hi 👋, I'm Mohamed Shakir</h1>
+<h3 align="justify">BSc in Information Technology | Software Engineer | AI/ML Enthusiast | Open Source Contributor </h3>
 
-<p align="center">
+<p align="justify">
   Passionate about Software Engineering, Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful solutions.
 </p>
 
@@ -72,7 +72,6 @@ My goal is to become a highly skilled Software Engineer while contributing to in
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG-Architecture-gold?style=for-the-badge)
 ![Vector_DBs](https://img.shields.io/badge/Vector_Databases-blueviolet?style=for-the-badge)
 
 ---
@@ -88,11 +87,11 @@ My goal is to become a highly skilled Software Engineer while contributing to in
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Shakir5665&theme=tokyonight&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shakir5665&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakkr5665&layout=compact&theme=tokyonight)
 
 ---
 

@@ -91,7 +91,7 @@ My goal is to become a highly skilled Software Engineer while contributing to in
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shakir5665&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakkr5665&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakir5665&layout=compact&theme=tokyonight)
 
 ---
 

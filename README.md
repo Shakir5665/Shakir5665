@@ -41,8 +41,9 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 📫 Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
 <p>
----
-# 🌐 Connect With Me
+
+
+# 🌐 Connect With Me #
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshakir5665)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shakir-portfolio-one-amber-87.vercel.app)
@@ -52,7 +53,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 # 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Oracle Java](https://img.shields.io/badge/Oracle_Java-F80000?style=flat&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

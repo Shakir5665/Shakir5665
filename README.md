@@ -14,19 +14,6 @@ I'm a final-year BSc Information Technology undergraduate at Rajarata University
 Over the past two years, I have designed and developed end-to-end software solutions spanning enterprise applications, SaaS platforms, AI-powered systems, and full-stack web applications. I enjoy taking products from concept to deployment by designing scalable architectures, developing secure REST APIs, building reliable backend services, integrating databases, and creating intuitive user experiences.
 
 
-💻 Tech Stack
-
-Languages: JavaScript, TypeScript, Python, C#, Java
-
-Backend: Spring Boot, ASP.NET Core, Node.js, Express.js
-
-Frontend: React.js
-
-Databases: MongoDB, MySQL, SQL Server
-
-Tools & Technologies: Git, Docker, REST APIs, CI/CD, AI/LLMs
-
-
 🚀 Featured Projects
 
 - 🏋️ Gym Management & Customer Retention System
@@ -92,6 +79,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 

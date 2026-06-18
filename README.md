@@ -53,7 +53,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 # 💻 Programming Languages
 
-![Oracle Java](https://img.shields.io/badge/Oracle_Java-F80000?style=flat&logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

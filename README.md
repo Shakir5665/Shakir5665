@@ -1,5 +1,5 @@
 <h1 align="justify">Hi 👋, I'm Mohamed Shakir</h1>
-<h3 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h3>
+<h4 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h4>
 
 <p align="justify">
   Passionate about Software Engineering, Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful solutions.
@@ -7,14 +7,14 @@
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 <p align="justify">
 I'm a final-year BSc Information Technology undergraduate at Rajarata University of Sri Lanka with a passion for building software that solves real-world business problems. My primary interests are Backend Engineering, Artificial Intelligence, Scalable System Design, and Enterprise Software Development.
 
 Over the past two years, I have designed and developed end-to-end software solutions spanning enterprise applications, SaaS platforms, AI-powered systems, and full-stack web applications. I enjoy taking products from concept to deployment by designing scalable architectures, developing secure REST APIs, building reliable backend services, integrating databases, and creating intuitive user experiences.
 
 
-🚀 Featured Projects
+## Featured Projects
 
 - 🏋️ Gym Management & Customer Retention System
 
@@ -27,19 +27,19 @@ Over the past two years, I have designed and developed end-to-end software solut
 - 🎥 Gemini-powered YouTube Video Summarizer
 
 
-🤖 Currently Building
+## Currently Building
 
 I'm currently developing an Autonomous AI Workflow System that leverages Large Language Models (LLMs), AI Agents, Workflow Orchestration, and Distributed Backend Architecture to automate enterprise workflows and business processes. This project is helping me deepen my expertise in AI Engineering, Intelligent Automation, Software Architecture, and Scalable Distributed Systems.
 
 
-🌱 Open Source
+## Open Source
 
 I actively contribute to open-source projects and enjoy collaborating with the developer community, continuously learning from real-world software engineering practices while helping improve projects used by others.
 
 I'm always exploring emerging technologies, solving challenging engineering problems, and building software that creates measurable value.
 
 
-📫 Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
+### Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
 <p>
 
 

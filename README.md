@@ -60,11 +60,11 @@ I'm always exploring emerging technologies, solving challenging engineering prob
   <span style="background:#ED8B00;padding:3px 6px;border-radius:3px 0 0 3px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30">
   </span>
-  <span style="background:#555555;color:white;padding:3px 8px;border-radius:0 3px 3px 0;font-size:12px;font-family:Verdana,Geneva,sans-serif;font-weight:800;">
+  <span style="background:#557855;color:white;padding:3px 8px;border-radius:0 3px 3px 0;font-size:12px;font-family:Verdana,Geneva,sans-serif;font-weight:800;">
     Java
   </span>
 </span>
----
+
 
 ## Frontend
 

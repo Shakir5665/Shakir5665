@@ -52,17 +52,8 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 ---
 
 # 💻 Programming Languages
-
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="18" height="18" style="vertical-align:middle;">
-  <img src="https://img.shields.io/badge/Java-555555?style=flat&logoColor=white" alt="Java">
-</span>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" style="vertical-align:middle;" />
+<img src="https://img.shields.io/badge/Java-555555?style=flat&labelColor=555555&color=555555" alt="Java" />
 
 ---
 

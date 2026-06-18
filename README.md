@@ -43,7 +43,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 <p>
 
 
-# 🌐 Connect With Me #
+## 🌐 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedshakir5665)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://shakir-portfolio-one-amber-87.vercel.app)
@@ -51,7 +51,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 💻 Programming Languages #
+## Programming Languages 
 <span style="display:inline-flex;align-items:center;">
   <span style="background:#ED8B00;padding:3px 6px;border-radius:3px 0 0 3px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30">
@@ -71,7 +71,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 🎨 Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -81,7 +81,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# ⚙️ Backend
+## Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -91,7 +91,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 🗄️ Databases
+## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -100,7 +100,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 🤖 AI & LLM
+## AI & LLM
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
@@ -111,7 +111,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 🧠 AI Frameworks & Concepts
+## AI Frameworks & Concepts
 
 ![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat&logoColor=white)
 ![Vector Database](https://img.shields.io/badge/Vector_Database-7B68EE?style=flat&logoColor=white)
@@ -122,7 +122,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# ☁️ DevOps & Tools
+## DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -130,14 +130,12 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 
 
-# 📊 GitHub Stats
+
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Shakir5665&theme=tokyonight&show_icons=true)
 
@@ -147,7 +145,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 🚀 Backend Engineering & Scalable System Design
 

@@ -1,5 +1,5 @@
 <h2 align="justify">Hi 👋, I'm Mohamed Shakir</h2>
-<h4 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h4>
+<h4 align="justify">Software Engineer | AI Engineer| Open Source Contributor </h4>
 
 ---
 
@@ -64,7 +64,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
 
 ---
 

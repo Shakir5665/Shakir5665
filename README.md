@@ -118,21 +118,28 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shakir5665&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakir5665&layout=compact&theme=tokyonight)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Shakir5665&theme=tokyo-night)
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- Full Stack Development
-- React & Next.js
-- Flutter Development
-- Machine Learning
-- Computer Vision with OpenCV
-- Artificial Intelligence
-- Open Source Contributions
-- Software Engineering Best Practices
+🚀 Backend Engineering & Scalable System Design
+
+🤖 Artificial Intelligence, LLMs & AI Agents
+
+🌐 Full-Stack Development (Spring Boot, ASP.NET Core & MERN)
+
+🏢 Enterprise Software Development
+
+⚡ REST APIs & Distributed Systems
+
+🔄 Intelligent Workflow Automation
+
+🌱 Open Source Contributions
+
+📚 Continuous Learning & Software Engineering Best Practices
 
 ---
 
-### 🚀 “Building technology that solves real-world problems.”
+### 🚀 “Transforme Ideas into Scalable Solutions..”

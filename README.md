@@ -52,8 +52,8 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 ---
 
 # 💻 Programming Languages
-<span style="display:inline-flex;align-items:center;background:#555555;color:white;padding:3px 8px;border-radius:3px;font-size:11px;font-family:Verdana,Geneva,sans-serif;font-weight:600;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="14" style="margin-right:6px;">
+<span style="display:inline-flex;align-items:center;background:#gray;color:white;padding:3px 8px;border-radius:3px;font-size:11px;font-family:Verdana,Geneva,sans-serif;font-weight:600;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" style="margin-right:5px;">
   Java
 </span>
 

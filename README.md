@@ -1,5 +1,5 @@
 <h1 align="justify">Hi 👋, I'm Mohamed Shakir</h1>
-<h3 align="justify">BSc in Information Technology | Software Engineer | AI/ML Enthusiast | Open Source Contributor </h3>
+<h3 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h3>
 
 <p align="justify">
   Passionate about Software Engineering, Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful solutions.
@@ -9,11 +9,50 @@
 
 # 👨‍💻 About Me
 
-I am a Software Engineering enthusiast and BSc in Information Technology undergraduate with a strong interest in full-stack development, artificial intelligence, and machine learning.
+I'm a final-year BSc Information Technology undergraduate at Rajarata University of Sri Lanka with a passion for building software that solves real-world business problems. My primary interests are Backend Engineering, Artificial Intelligence, Scalable System Design, and Enterprise Software Development.
 
-I enjoy building scalable web applications, intelligent systems, and solving real-world problems through technology. My experience includes frontend development, backend engineering, database design, machine learning, and cloud technologies.
+Over the past two years, I have designed and developed end-to-end software solutions spanning enterprise applications, SaaS platforms, AI-powered systems, and full-stack web applications. I enjoy taking products from concept to deployment by designing scalable architectures, developing secure REST APIs, building reliable backend services, integrating databases, and creating intuitive user experiences.
 
-My goal is to become a highly skilled Software Engineer while contributing to innovative projects and open-source communities.
+
+💻 Tech Stack
+
+Languages: JavaScript, TypeScript, Python, C#, Java
+
+Backend: Spring Boot, ASP.NET Core, Node.js, Express.js
+
+Frontend: React.js
+
+Databases: MongoDB, MySQL, SQL Server
+
+Tools & Technologies: Git, Docker, REST APIs, CI/CD, AI/LLMs
+
+
+🚀 Featured Projects
+
+- 🏋️ Gym Management & Customer Retention System
+
+- 🏢 Enterprise HR & Payroll Management System
+
+- 🤝 Two-Sided Service Marketplace Platform
+
+- 🤖 Retrieval-Augmented Generation (RAG) Document Analysis System
+
+- 🎥 Gemini-powered YouTube Video Summarizer
+
+
+🤖 Currently Building
+
+I'm currently developing an Autonomous AI Workflow System that leverages Large Language Models (LLMs), AI Agents, Workflow Orchestration, and Distributed Backend Architecture to automate enterprise workflows and business processes. This project is helping me deepen my expertise in AI Engineering, Intelligent Automation, Software Architecture, and Scalable Distributed Systems.
+
+
+🌱 Open Source
+
+I actively contribute to open-source projects and enjoy collaborating with the developer community, continuously learning from real-world software engineering practices while helping improve projects used by others.
+
+I'm always exploring emerging technologies, solving challenging engineering problems, and building software that creates measurable value.
+
+
+📫 Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
 
 ---
 

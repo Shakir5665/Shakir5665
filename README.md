@@ -1,4 +1,4 @@
-<h1 align="justify">Hi 👋, I'm Mohamed Shakir</h1>
+<h2 align="justify">Hi 👋, I'm Mohamed Shakir</h2>
 <h4 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h4>
 
 ---
@@ -36,7 +36,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 
 => Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
-<p><\n>
+<p>
 
 
 

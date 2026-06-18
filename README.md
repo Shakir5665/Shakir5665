@@ -60,6 +60,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
     Java
   </span>
 </span>
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

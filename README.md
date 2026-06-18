@@ -51,7 +51,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-# 💻 Programming Languages
+# 💻 Programming Languages #
 <span style="display:inline-flex;align-items:center;">
   <span style="background:#ED8B00;padding:3px 6px;border-radius:3px 0 0 3px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30">
@@ -60,7 +60,7 @@ I'm always exploring emerging technologies, solving challenging engineering prob
     Java
   </span>
 </span>
----
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

@@ -1,5 +1,5 @@
 <h2 align="justify">Hi 👋, I'm Mohamed Shakir</h2>
-<h4 align="justify">Software Engineer | AI Engineer| Open Source Contributor </h4>
+<h4 align="justify">Software Engineer | AI Engineer | Open Source Contributor </h4>
 
 ---
 

@@ -1,10 +1,6 @@
 <h1 align="justify">Hi 👋, I'm Mohamed Shakir</h1>
 <h4 align="justify">Software Engineer | AI/ML Certified @SLIIT| Open Source Contributor </h4>
 
-<p align="justify">
-  Passionate about Software Engineering, Full Stack Development, Artificial Intelligence, Machine Learning, and building impactful solutions.
-</p>
-
 ---
 
 ## About Me
@@ -39,8 +35,9 @@ I actively contribute to open-source projects and enjoy collaborating with the d
 I'm always exploring emerging technologies, solving challenging engineering problems, and building software that creates measurable value.
 
 
-### Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
-<p>
+=> Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
+<p><\n>
+
 
 
 ## 🌐 Connect With Me 

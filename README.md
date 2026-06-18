@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-<p align="justify">
+
 I'm a final-year BSc Information Technology undergraduate at Rajarata University of Sri Lanka with a passion for building software that solves real-world business problems. My primary interests are Backend Engineering, Artificial Intelligence, Scalable System Design, and Enterprise Software Development.
 
 Over the past two years, I have designed and developed end-to-end software solutions spanning enterprise applications, SaaS platforms, AI-powered systems, and full-stack web applications. I enjoy taking products from concept to deployment by designing scalable architectures, developing secure REST APIs, building reliable backend services, integrating databases, and creating intuitive user experiences.
@@ -36,8 +36,7 @@ I actively contribute to open-source projects and enjoy collaborating with the d
 I'm always exploring emerging technologies, solving challenging engineering problems, and building software that creates measurable value.
 
 
-=> Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
-<p>
+## => Open to Software Engineer, Backend Engineer, Full-Stack Developer, AI Engineer, and Open Source collaboration opportunities.
 
 
 
@@ -160,4 +159,4 @@ I'm always exploring emerging technologies, solving challenging engineering prob
 
 ---
 
-### 🚀 “Transforme Ideas into Scalable Solutions..”
+### ⚡ “Transforming Ideas into Scalable Solutions”

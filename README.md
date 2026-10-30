@@ -48,7 +48,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### 🔷 Technical Arsenal
+### 🔷 Technical Skills
 
 #### ♦️ Artificial Intelligence, LLMs & Deep Learning
 <p>

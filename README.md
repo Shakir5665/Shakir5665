@@ -48,50 +48,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### 🔷 Core Architectural Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>♦️ Agentic AI & Autonomous Systems</h4>
-      <ul>
-        <li><strong>Multi-Agent Orchestration:</strong> Designing multi-agent workflows with task decomposition, dynamic planning, and execution loops (ReAct, Plan-and-Solve).</li>
-        <li><strong>Tool Calling & Function Execution:</strong> Equipping LLMs with external tools, APIs, web scraping, and computational engines.</li>
-        <li><strong>Memory & Context:</strong> Implementing short-term buffer memory and long-term persistent episodic memory architectures.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>♦️ Production-Grade RAG Systems</h4>
-      <ul>
-        <li><strong>Advanced Indexing:</strong> Chunking strategies, metadata enrichment, hybrid dense/sparse semantic retrieval.</li>
-        <li><strong>Reranking & Precision:</strong> Cross-encoder rerankers, semantic routing, and query transformations (HyDE, step-back prompting).</li>
-        <li><strong>Vector Storage:</strong> Optimized schema designs on Pinecone, ChromaDB, Qdrant, and pgvector.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>♦️ Scalable Backend & Microservices</h4>
-      <ul>
-        <li><strong>High-Throughput APIs:</strong> Asynchronous RESTful services using FastAPI, Node.js, and Spring Boot.</li>
-        <li><strong>Reliable Architecture:</strong> Database normalization, query optimization, caching layers, and decoupled messaging.</li>
-        <li><strong>Enterprise Security:</strong> OAuth2, JWT authentication, RBAC, and encrypted data flows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>♦️ MLOps & Containerized Deployment</h4>
-      <ul>
-        <li><strong>Containerization:</strong> Dockerizing complex AI runtimes, vector stores, and backend microservices.</li>
-        <li><strong>CI/CD Automation:</strong> Automated unit testing, linting, and continuous delivery via GitHub Actions.</li>
-        <li><strong>Model Serving & Monitoring:</strong> Low-latency inference endpoints, payload telemetry, and performance tracking.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔷 Technical Arsenal
+### 🔷 Technical Skills
 
 #### ♦️ Artificial Intelligence, LLMs & Deep Learning
 <p>
@@ -194,15 +151,24 @@ Whether you're looking to discuss autonomous agent architectures, collaborate on
 
 <div align="center">
 
-| Channel | Contact Point |
-| :--- | :--- |
-| 🌐 **Portfolio** | [shakir-portfolio-one-amber-87.vercel.app](https://shakir-portfolio-one-amber-87.vercel.app) |
-| 💼 **LinkedIn** | [linkedin.com/in/mohamedshakir5665](https://www.linkedin.com/in/mohamedshakir5665) |
-| 📧 **Email** | [mohamedsakir3456@gmail.com](mailto:mohamedsakir3456@gmail.com) |
-| 📱 **Direct / WhatsApp** | [+94 75 295 8134](tel:+94752958134) |
-| 🐙 **GitHub** | [@Shakir5665](https://github.com/Shakir5665) |
-
-<br/>
+<!-- Connect Badges -->
+  <p align="center">
+    <a href="https://shakir-portfolio-one-amber-87.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohamedshakir5665" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mohamedsakir3456@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="tel:+94752958134">
+      <img src="https://img.shields.io/badge/Direct_Line-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    <a href="https://github.com/Shakir5665">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 > *"Transforming ideas into reliable, scalable, and autonomous production systems."*
 

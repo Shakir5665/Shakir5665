@@ -41,20 +41,20 @@ I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier b
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-- ♦️ **Currently Pioneering:** Autonomous multi-agent workflows, tool execution frameworks, and self-correcting reasoning agents.
-- ♦️ **Deep Technical Focus:** Context-aware RAG pipelines, dense/sparse hybrid search, vector embeddings, and semantic routing.
-- ♦️ **Systems Mastery:** Designing robust REST & GraphQL APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
-- ♦️ **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
-- ♦️ **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
+- **Currently Pioneering:** Autonomous multi-agent workflows, tool execution frameworks, and self-correcting reasoning agents.
+- **Deep Technical Focus:** Context-aware RAG pipelines, dense/sparse hybrid search, vector embeddings, and semantic routing.
+- **Systems Mastery:** Designing robust REST & GraphQL APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
+- **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
+- **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
 
 ---
 
-### 🧠 Core Architectural Focus
+### 🔷 Core Architectural Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & Autonomous Systems</h4>
+      <h4>♦️ Agentic AI & Autonomous Systems</h4>
       <ul>
         <li><strong>Multi-Agent Orchestration:</strong> Designing multi-agent workflows with task decomposition, dynamic planning, and execution loops (ReAct, Plan-and-Solve).</li>
         <li><strong>Tool Calling & Function Execution:</strong> Equipping LLMs with external tools, APIs, web scraping, and computational engines.</li>
@@ -62,7 +62,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Production-Grade RAG Systems</h4>
+      <h4>♦️ Production-Grade RAG Systems</h4>
       <ul>
         <li><strong>Advanced Indexing:</strong> Chunking strategies, metadata enrichment, hybrid dense/sparse semantic retrieval.</li>
         <li><strong>Reranking & Precision:</strong> Cross-encoder rerankers, semantic routing, and query transformations (HyDE, step-back prompting).</li>
@@ -72,7 +72,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Scalable Backend & Microservices</h4>
+      <h4>♦️ Scalable Backend & Microservices</h4>
       <ul>
         <li><strong>High-Throughput APIs:</strong> Asynchronous RESTful services using FastAPI, Node.js, and Spring Boot.</li>
         <li><strong>Reliable Architecture:</strong> Database normalization, query optimization, caching layers, and decoupled messaging.</li>
@@ -80,7 +80,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🚢 MLOps & Containerized Deployment</h4>
+      <h4>♦️ MLOps & Containerized Deployment</h4>
       <ul>
         <li><strong>Containerization:</strong> Dockerizing complex AI runtimes, vector stores, and backend microservices.</li>
         <li><strong>CI/CD Automation:</strong> Automated unit testing, linting, and continuous delivery via GitHub Actions.</li>
@@ -92,9 +92,9 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🔷 Technical Arsenal
 
-#### 🧠 Artificial Intelligence, LLMs & Deep Learning
+#### ♦️ Artificial Intelligence, LLMs & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -108,7 +108,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
 
-#### ⚡ AI Concepts, RAG & Vector Systems
+#### ♦️ AI Concepts, RAG & Vector Systems
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-5C2D91?style=for-the-badge&logo=theconversation&logoColor=white" alt="RAG" />
@@ -119,7 +119,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
 
-#### ⚙️ Backend Engineering & Enterprise Frameworks
+#### ♦️ Backend Engineering & Enterprise Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -132,7 +132,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### ♦️ Databases & Storage
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -141,7 +141,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
-#### 🚀 DevOps, Cloud & Developer Tools
+#### ♦️ DevOps, Cloud & Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -151,7 +151,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### 💻 Frontend & Prototyping
+#### ♦️ Frontend & Prototyping
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -163,7 +163,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### ♦️ GitHub Activity & Analytics
 
 <div align="center">
   <table border="0">
@@ -190,7 +190,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### 💬 Let's Connect & Collaborate
+### 🔷 Let's Connect & Collaborate
 
 Whether you're looking to discuss autonomous agent architectures, collaborate on an open-source project, or build next-generation enterprise AI solutions, my inbox is always open!
 
@@ -206,6 +206,6 @@ Whether you're looking to discuss autonomous agent architectures, collaborate on
 
 <br/>
 
-> *"Transforming raw model intelligence into reliable, scalable, and autonomous production systems."*
+> *"Transforming ideas into reliable, scalable, and autonomous production systems."*
 
 </div>

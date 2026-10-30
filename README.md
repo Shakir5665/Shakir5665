@@ -41,9 +41,8 @@ I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier b
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-- **Currently Pioneering:** Autonomous multi-agent workflows, tool execution frameworks, and self-correcting reasoning agents.
-- **Deep Technical Focus:** Context-aware RAG pipelines, dense/sparse hybrid search, vector embeddings, and semantic routing.
-- **Systems Mastery:** Designing robust REST & GraphQL APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
+- **Deep Technical Focus:** Context-aware RAG pipelines, hybrid search, vector embeddings, and semantic routing.
+- **Systems Mastery:** Designing robust REST APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
 - **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
 - **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
 
@@ -98,14 +97,12 @@ Over the past two years, I have architected and deployed end-to-end software sol
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  
 </p>
 
 #### ♦️ AI Concepts, RAG & Vector Systems
@@ -113,8 +110,6 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Agentic_AI-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-5C2D91?style=for-the-badge&logo=theconversation&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-059669?style=for-the-badge&logo=codeforces&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Vector_Databases-7B68EE?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
@@ -126,10 +121,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+ 
 </p>
 
 #### ♦️ Databases & Storage
@@ -137,7 +129,6 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
@@ -147,7 +138,6 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -163,26 +153,34 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ---
 
-### ♦️ GitHub Activity & Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
+        <a href="https://github.com/Shakir5665">
+          <img src="https://gh-stats.com/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Mohamed Shakir's GitHub Stats" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakir5665&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        <a href="https://github.com/Shakir5665">
+          <img src="https://gh-stats.com/api/top-langs/?username=Shakir5665&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" width="95%" />
+        <a href="https://github.com/Shakir5665">
+          <img src="https://streak-stats.demolab.com/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution Streak" width="95%" />
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakir5665&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+        <a href="https://github.com/Shakir5665">
+          <img src="https://github-activity-chart.vercel.app/graph?username=Shakir5665&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+        </a>
       </td>
     </tr>
   </table>

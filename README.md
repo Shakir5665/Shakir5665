@@ -35,17 +35,17 @@
 
 ---
 
-### 🚀 About Me
+### 🔷 About Me
 
 I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier between state-of-the-art Artificial Intelligence and production-grade software architectures. With a strong foundation in distributed backend engineering and computer science, I specialize in architecting **autonomous AI agents**, high-throughput **Retrieval-Augmented Generation (RAG) pipelines**, and scalable full-stack enterprise systems.
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-- 🔭 **Currently Pioneering:** Autonomous multi-agent workflows, tool execution frameworks, and self-correcting reasoning agents.
-- ⚡ **Deep Technical Focus:** Context-aware RAG pipelines, dense/sparse hybrid search, vector embeddings, and semantic routing.
-- 🛠️ **Systems Mastery:** Designing robust REST & GraphQL APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
-- 🌐 **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
-- 🎯 **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
+- ♦️ **Currently Pioneering:** Autonomous multi-agent workflows, tool execution frameworks, and self-correcting reasoning agents.
+- ♦️ **Deep Technical Focus:** Context-aware RAG pipelines, dense/sparse hybrid search, vector embeddings, and semantic routing.
+- ♦️ **Systems Mastery:** Designing robust REST & GraphQL APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
+- ♦️ **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
+- ♦️ **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
 
 ---
 

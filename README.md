@@ -151,15 +151,24 @@ Whether you're looking to discuss autonomous agent architectures, collaborate on
 
 <div align="center">
 
-| Channel | Contact Point |
-| :--- | :--- |
-| 🌐 **Portfolio** | [shakir-portfolio-one-amber-87.vercel.app](https://shakir-portfolio-one-amber-87.vercel.app) |
-| 💼 **LinkedIn** | [linkedin.com/in/mohamedshakir5665](https://www.linkedin.com/in/mohamedshakir5665) |
-| 📧 **Email** | [mohamedsakir3456@gmail.com](mailto:mohamedsakir3456@gmail.com) |
-| 📱 **Direct / WhatsApp** | [+94 75 295 8134](tel:+94752958134) |
-| 🐙 **GitHub** | [@Shakir5665](https://github.com/Shakir5665) |
-
-<br/>
+<!-- Connect Badges -->
+  <p align="center">
+    <a href="https://shakir-portfolio-one-amber-87.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohamedshakir5665" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mohamedsakir3456@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="tel:+94752958134">
+      <img src="https://img.shields.io/badge/Direct_Line-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+    <a href="https://github.com/Shakir5665">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
 > *"Transforming ideas into reliable, scalable, and autonomous production systems."*
 

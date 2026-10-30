@@ -5,11 +5,11 @@
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Shakir5665">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Agentic+Systems+Architect;Production-Grade+RAG+%26+Vector+Search;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Software+Engineer;Production-Grade+RAG+%26+Vector+Search;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Final-Year B.Sc. in IT @ Rajarata University of Sri Lanka • Building Autonomous Intelligence & High-Scale Systems</strong>
+    <strong>Final-Year B.Sc. in IT @ Rajarata University of Sri Lanka • Transforming Ideas into Scalable Solutions</strong>
   </p>
 
   <!-- Connect Badges -->
@@ -51,115 +51,94 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ### 🧠 Core Architectural Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & Autonomous Systems</h4>
-      <ul>
-        <li><strong>Multi-Agent Orchestration:</strong> Designing multi-agent workflows with task decomposition, dynamic planning, and execution loops (ReAct, Plan-and-Solve).</li>
-        <li><strong>Tool Calling & Function Execution:</strong> Equipping LLMs with external tools, APIs, web scraping, and computational engines.</li>
-        <li><strong>Memory & Context:</strong> Implementing short-term buffer memory and long-term persistent episodic memory architectures.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Production-Grade RAG Systems</h4>
-      <ul>
-        <li><strong>Advanced Indexing:</strong> Chunking strategies, metadata enrichment, hybrid dense/sparse semantic retrieval.</li>
-        <li><strong>Reranking & Precision:</strong> Cross-encoder rerankers, semantic routing, and query transformations (HyDE, step-back prompting).</li>
-        <li><strong>Vector Storage:</strong> Optimized schema designs on Pinecone, ChromaDB, Qdrant, and pgvector.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏗️ Scalable Backend & Microservices</h4>
-      <ul>
-        <li><strong>High-Throughput APIs:</strong> Asynchronous RESTful services using FastAPI, Node.js, and Spring Boot.</li>
-        <li><strong>Reliable Architecture:</strong> Database normalization, query optimization, caching layers, and decoupled messaging.</li>
-        <li><strong>Enterprise Security:</strong> OAuth2, JWT authentication, RBAC, and encrypted data flows.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚢 MLOps & Containerized Deployment</h4>
-      <ul>
-        <li><strong>Containerization:</strong> Dockerizing complex AI runtimes, vector stores, and backend microservices.</li>
-        <li><strong>CI/CD Automation:</strong> Automated unit testing, linting, and continuous delivery via GitHub Actions.</li>
-        <li><strong>Model Serving & Monitoring:</strong> Low-latency inference endpoints, payload telemetry, and performance tracking.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                        END-TO-END AI SYSTEM ARCHITECTURE                               │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                        │
+│   [ Client / User Request ]                                                            │
+│          │                                                                             │
+│          ▼                                                                             │
+│   ┌────────────────────────────────────────────────────────────────────────────────┐   │
+│   │ 01. AGENTIC ORCHESTRATION ENGINE                                               │   │
+│   │     • Intent Classification & Dynamic Task Decomposition                       │   │
+│   │     • ReAct Cognitive Loop (Reason ➔ Select Tool ➔ Execute ➔ Self-Reflect)     │   │
+│   │     • Dual-Tier Context: Ephemeral Conversation Buffer + Long-Term Memory      │   │
+│   └───────────────────────┬────────────────────────────────┬───────────────────────┘   │
+│                           │                                │                           │
+│                           ▼                                ▼                           │
+│   ┌───────────────────────────────────┐    ┌───────────────────────────────────────┐   │
+│   │ 02. HIGH-PRECISION RAG PIPELINE   │    │ 03. ENTERPRISE INTEGRATION LAYER      │   │
+│   │     • Two-Stage Dense/Sparse Hyb  │    │     • Asynchronous REST APIs (FastAPI)│   │
+│   │     • Cross-Encoder Rerankers     │    │     • Real-Time SSE Token Streaming   │   │
+│   │     • Vector DBs (Chroma/Pinecone)│    │     • Multi-Tier Redis Caching        │   │
+│   └───────────────────────┬───────────┘    └───────────────┬───────────────────────┘   │
+│                           │                                │                           │
+│                           └────────────────┬───────────────┘                           │
+│                                            ▼                                           │
+│   ┌────────────────────────────────────────────────────────────────────────────────┐   │
+│   │ 04. MLOPS & PRODUCTION RUNTIME                                                 │   │
+│   │     • Multi-Stage Docker Containers • Automated CI/CD via GitHub Actions       │   │
+│   │     • Latency Optimization • Token Tracking • Prompt Telemetry & Guardrails    │   │
+│   └────────────────────────────────────────────────────────────────────────────────┘   │
+│                                                                                        │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### 🏛️ Specialized Engineering Pillars
+
+> ### 🤖 01. Autonomous Agent Systems & Swarms
+> **Core Architecture:** *ReAct Cognitive Loops • Dynamic Tool Calling • Self-Reflective Planning*
+> - **Autonomous Execution:** Decomposing non-deterministic tasks into structured multi-step execution plans with automated verification.
+> - **Tool Grounding & Function Calling:** Equipping LLMs with external capabilities—SQL drivers, REST microservices, web scrapers, and Python sandboxes.
+> - **Context & Memory Persistence:** Architecting sliding short-term conversational buffers with vector-indexed episodic memory for stateful persistence.
+> 
+> 🔹 **Applied Tech:** `LangChain` • `LlamaIndex` • `CrewAI` • `OpenAI Function Calling` • `Gemini Tools`
+
+> ### ⚡ 02. High-Precision Retrieval-Augmented Generation (RAG)
+> **Core Architecture:** *Two-Stage Hybrid Search • Cross-Encoder Reranking • Semantic Indexing*
+> - **Dense + Sparse Hybrid Retrieval:** Combining BM25 keyword matching with dense vector embeddings via Reciprocal Rank Fusion (RRF) for 99%+ recall.
+> - **Contextual Reranking & Compression:** Deploying cross-encoders to eliminate extraneous context and reduce prompt token waste.
+> - **Scalable Vector Topologies:** Designing high-throughput vector schemas, HNSW indexing, and metadata filtering on distributed vector engines.
+> 
+> 🔹 **Applied Tech:** `Pinecone` • `ChromaDB` • `pgvector` • `Qdrant` • `Sentence-Transformers` • `FAISS`
+
+> ### 🏗️ 03. Scalable Backend & Distributed Systems
+> **Core Architecture:** *Asynchronous Microservices • Real-Time SSE Streaming • Multi-Tier Caching*
+> - **High-Concurrency Serving:** Async RESTful backends engineered with FastAPI, Node.js, and Spring Boot for non-blocking I/O.
+> - **Enterprise Foundations:** Robust domain-driven business logic and enterprise security patterns built in C# (.NET Core) and Java.
+> - **Caching & State Management:** Sub-millisecond Redis caching for session state and rate limiting alongside relational (PostgreSQL, MySQL) and NoSQL (MongoDB) stores.
+> 
+> 🔹 **Applied Tech:** `FastAPI` • `Django` • `Spring Boot` • `ASP.NET Core` • `PostgreSQL` • `Redis` • `MongoDB`
+
+> ### 🚢 04. MLOps, Containerization & CI/CD
+> **Core Architecture:** *Reproducible Docker Runtimes • Automated Deployment Pipelines • Observability*
+> - **Multi-Stage Containerization:** Lean, secure Docker images isolating heavy ML runtimes, CUDA dependencies, and vector clients.
+> - **Continuous Integration & Delivery:** Automated GitHub Actions workflows handling linting, unit testing, security checks, and image publishing.
+> - **Inference Telemetry:** Monitoring token consumption, prompt latency, endpoint uptime, and output validation guardrails.
+> 
+> 🔹 **Applied Tech:** `Docker` • `GitHub Actions` • `Linux` • `Swagger / OpenAPI` • `Postman`
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-#### 🧠 Artificial Intelligence, LLMs & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,spring,dotnet,nodejs,postgres,mongodb,redis,docker,githubactions,linux,react,nextjs,tailwind,ts,cpp,cs,java&perline=11" alt="Skills Grid" />
+  </p>
+</div>
 
-#### ⚡ AI Concepts, RAG & Vector Systems
-<p>
-  <img src="https://img.shields.io/badge/Agentic_AI-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-5C2D91?style=for-the-badge&logo=theconversation&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-059669?style=for-the-badge&logo=codeforces&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Vector_Databases-7B68EE?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-</p>
-
-#### ⚙️ Backend Engineering & Enterprise Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-#### 🗄️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
-
-#### 🚀 DevOps, Cloud & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-#### 💻 Frontend & Prototyping
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+| Domain | Core Tech Stack | Applied Specialization & Engineering Focus |
+| :--- | :--- | :--- |
+| **🧠 AI & Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | Neural Network Architectures • Model Fine-Tuning • Embedding Pipelines • Transformers |
+| **🤖 LLMs & Agentic Systems** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) | Autonomous Multi-Agent Swarms • Function Calling / Tool Use • Prompt Engineering • ReAct |
+| **⚡ RAG & Vector Retrieval** | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logoColor=white) | Two-Stage Hybrid Retrieval • Cross-Encoder Rerankers • Context Compression • HNSW Indexing |
+| **⚙️ Backend & Microservices** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Asynchronous RESTful APIs • Real-Time SSE Token Streaming • WebSockets • Microservice Bus |
+| **🗄️ Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Vector Schema Modeling • Low-Latency In-Memory Caching • Relational Design & Normalization |
+| **🚀 DevOps, MLOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | Multi-Stage Container Packaging • Automated CI/CD Pipelines • API Telemetry & Testing |
+| **💻 Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Object-Oriented Architecture • Concurrent Programming • Data Structures & Algorithms |
+| **🎨 Frontend & Prototyping** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Conversational AI Dashboards • Real-Time Chat Interfaces • Rapid Model Prototyping |
 
 ---
 

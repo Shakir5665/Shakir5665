@@ -121,7 +121,6 @@ Over the past two years, I have architected and deployed end-to-end software sol
           <img src="https://gh-stats.com/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Mohamed Shakir's GitHub Stats" />
         </a>
       </td>
-      
     </tr>
     <tr>
       <td align="center">
@@ -131,7 +130,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
         <a href="https://github.com/Shakir5665">
           <img src="https://github-activity-chart.vercel.app/graph?username=Shakir5665&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
         </a>

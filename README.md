@@ -6,11 +6,11 @@
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Shakir5665">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Software+Engineer;Production-Grade+RAG+%26+Vector+Search;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Software+Engineer;Production-Grade+RAG+%26+Systems;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>BSc in Information Technology @ Rajarata University of Sri Lanka </strong>
+    <strong>BSc in Information Technology @ RUSL </strong>
   </p>
 
   <!-- Connect Badges -->
@@ -38,13 +38,10 @@
 
 ### 🔷 About Me
 
-<div align="justify">
 I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier between state-of-the-art Artificial Intelligence and production-grade software architectures. With a strong foundation in distributed backend engineering and computer science, I specialize in architecting **autonomous AI agents**, high-throughput **Retrieval-Augmented Generation (RAG) pipelines**, and scalable full-stack enterprise systems.
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-<\div>
- 
 ---
 
 ### 🔷 Technical Skills

@@ -10,7 +10,7 @@
   </a>
 
   <p align="center">
-    <strong>Final-Year BSc in Information Technology @ Rajarata University of Sri Lanka </strong>
+    <strong>BSc in Information Technology @ Rajarata University of Sri Lanka </strong>
   </p>
 
   <!-- Connect Badges -->
@@ -124,7 +124,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
       
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center">
         <a href="https://github.com/Shakir5665">
           <img src="https://streak-stats.demolab.com/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution Streak" width="95%" />
         </a>

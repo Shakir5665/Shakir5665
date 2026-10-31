@@ -42,10 +42,7 @@ I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier b
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-- **Deep Technical Focus:** Context-aware RAG pipelines, hybrid search, vector embeddings, and semantic routing.
-- **Systems Mastery:** Designing robust REST APIs, microservices with Python (FastAPI/Django), Java (Spring Boot), and .NET Core.
-- **Open Source & Collaboration:** Active contributor to developer ecosystems, passionate about modular open-source software and transparent AI tooling.
-- **Open To:** AI Engineer, Machine Learning Engineer, and Backend Engineering opportunities.
+- **Open To:** AI Engineer, Software Engineer 
 
 ---
 
@@ -63,7 +60,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   
 </p>
 
-#### ♦️ AI Concepts, RAG & Vector Systems
+#### ♦️ AI Concepts
 <p>
   <img src="https://img.shields.io/badge/Agentic_AI-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-5C2D91?style=for-the-badge&logo=theconversation&logoColor=white" alt="RAG" />
@@ -72,7 +69,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
 </p>
 
-#### ♦️ Backend Engineering & Enterprise Frameworks
+#### ♦️ Backend Engineering & Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -82,7 +79,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
  
 </p>
 
-#### ♦️ Databases & Storage
+#### ♦️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -99,7 +96,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### ♦️ Frontend & Prototyping
+#### ♦️ Frontend
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -119,7 +116,9 @@ Over the past two years, I have architected and deployed end-to-end software sol
     <img src="https://streak-stats.demolab.com/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Contribution Streak" width="95%" />
   </a><br />  <a href="https://github.com/Shakir5665">
     <img src="https://github-activity-chart.vercel.app/graph?username=Shakir5665&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
-  </a></div>---
+  </a></div>
+
+---
 
 ### 🔷 Let's Connect & Collaborate
 

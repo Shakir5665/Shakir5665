@@ -38,12 +38,13 @@
 
 ### 🔷 About Me
 
+<div align="justify">
 I am an **AI Engineer & Systems Developer** dedicated to bridging the frontier between state-of-the-art Artificial Intelligence and production-grade software architectures. With a strong foundation in distributed backend engineering and computer science, I specialize in architecting **autonomous AI agents**, high-throughput **Retrieval-Augmented Generation (RAG) pipelines**, and scalable full-stack enterprise systems.
 
 Over the past two years, I have architected and deployed end-to-end software solutions spanning enterprise SaaS, intelligent agentic workflows, and microservice backends. I thrive at taking machine learning innovations out of notebooks and engineering them into resilient, containerized, low-latency applications that create measurable enterprise value.
 
-- **Open To:** AI Engineer, Software Engineer 
-
+<\div>
+ 
 ---
 
 ### 🔷 Technical Skills

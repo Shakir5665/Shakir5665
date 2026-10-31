@@ -46,7 +46,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 ### 🔷 Technical Skills
 
-#### ♦️ Artificial Intelligence, LLMs & Deep Learning
+#### ♦️ LLMs & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />

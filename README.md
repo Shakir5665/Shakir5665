@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- Hero Banner -->
@@ -9,7 +10,7 @@
   </a>
 
   <p align="center">
-    <strong>Final-Year B.Sc. in IT @ Rajarata University of Sri Lanka • Transforming Ideas into Scalable Solutions</strong>
+    <strong>Final-Year BSc in Information Technology @ Rajarata University of Sri Lanka </strong>
   </p>
 
   <!-- Connect Badges -->
@@ -120,11 +121,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
           <img src="https://gh-stats.com/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Mohamed Shakir's GitHub Stats" />
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/Shakir5665">
-          <img src="https://gh-stats.com/api/top-langs/?username=Shakir5665&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" />
-        </a>
-      </td>
+      
     </tr>
     <tr>
       <td align="center" colspan="2">
@@ -170,6 +167,6 @@ Whether you're looking to discuss autonomous agent architectures, collaborate on
     </a>
   </p>
 
-> *"Transforming ideas into reliable, scalable, and autonomous production systems."*
+> *"Transforming ideas into scalable solutions."*
 
 </div>

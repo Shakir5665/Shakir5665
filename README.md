@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Hero Banner -->
-  <img src="./asset/banner.jpeg" alt="Mohamed Shakir - AI Engineer Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="./asset/banner.png" alt="Mohamed Shakir - AI Engineer Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Shakir5665">

@@ -6,7 +6,7 @@
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Shakir5665">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF8&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Software+Engineer;Production-Grade+RAG+%26+Systems;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F973168&center=true&vcenter=true&width=650&lines=AI+Engineer+%7C+Software+Engineer;Production-Grade+RAG+%26+Systems;Fine-Tuning+%26+Deploying+Frontier+LLMs;Scalable+Backend+%26+Distributed+Systems" alt="Typing SVG" />
   </a>
 
   <p align="center">

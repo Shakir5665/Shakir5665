@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="tel:+94752958134">
-      <img src="https://img.shields.io/badge/Direct_Line-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+      <img src="https://img.shields.io/badge/Whatsapp-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     <a href="https://github.com/Shakir5665">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

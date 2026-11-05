@@ -24,8 +24,8 @@
     <a href="mailto:mohamedsakir3456@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="tel:+94752958134">
-      <img src="https://img.shields.io/badge/Whatsapp-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <a href="https://wa.me/94752958134" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Whatsapp-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://github.com/Shakir5665">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

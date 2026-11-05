@@ -110,7 +110,7 @@ Over the past two years, I have architected and deployed end-to-end software sol
 
 <div align="center">
    <a href="https://github.com/Shakir5665">
-    <img src="https://gh-stats.com/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Mohamed Shakir's GitHub Stats" width="80%" />
+    <img src="https://gh-stats.com/api?username=Shakir5665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Mohamed Shakir's GitHub Stats" width="70%" />
   </a>
   <br />
 

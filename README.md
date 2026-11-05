@@ -114,8 +114,9 @@ Over the past two years, I have architected and deployed end-to-end software sol
   </a><br />
 
   <a href="https://github.com/Shakir5665">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&cache=1" alt="Contribution Streak" width="95%" />
-  </a><br />
+      <img src="https://streak-stats.demolab.com/?user=Shakir5665&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"    alt="Contribution Streak" width="95%" />
+  </a>
+  <br />
 
   <a href="https://github.com/Shakir5665">
     <img src="https://github-activity-chart.vercel.app/graph?username=Shakir5665&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />

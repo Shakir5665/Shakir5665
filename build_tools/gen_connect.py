@@ -7,46 +7,37 @@ def generate_connect():
         scale = size / 24.0
         return f'<g transform="translate({x}, {y}) scale({scale})"><path d="{d}" fill="{color}"/></g>'
 
-    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 880 380" width="100%" height="100%">
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 400" width="100%" height="100%">
   {FONT_LICENSE_COMMENT}
   <defs>
     <style>
       {COMMON_FONTS_CSS}
 
       .cnt_title {{
-        font-family: 'Space Grotesk', sans-serif;
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
         font-weight: 700;
-        letter-spacing: -0.3px;
+        letter-spacing: -0.02em;
       }}
       .cnt_mono {{
         font-family: 'JetBrains Mono', monospace;
       }}
       .cnt_body {{
-        font-family: 'Space Grotesk', sans-serif;
+        font-family: 'Space Grotesk', -apple-system, sans-serif;
       }}
 
-      /* Entrance Animation */
       @keyframes cnt_fadeIn {{
-        from {{ opacity: 0; transform: translateY(12px); }}
+        from {{ opacity: 0; transform: translateY(14px); }}
         to {{ opacity: 1; transform: translateY(0); }}
       }}
 
-      /* Character Idle Float */
       @keyframes cnt_charFloatAnim {{
         0%, 100% {{ transform: translateY(0); }}
         50% {{ transform: translateY(-5px); }}
       }}
 
-      /* Nudging Arrow Animation */
       @keyframes cnt_nudgeAnim {{
         0%, 100% {{ transform: translateX(0); }}
         50% {{ transform: translateX(6px); }}
-      }}
-
-      /* Speech bubble pulse */
-      @keyframes cnt_bubblePulse {{
-        0%, 100% {{ transform: scale(1); }}
-        50% {{ transform: scale(1.03); }}
       }}
 
       .cnt_anim {{
@@ -58,14 +49,9 @@ def generate_connect():
       .cnt_arrow {{
         animation: cnt_nudgeAnim 1.6s ease-in-out infinite;
       }}
-      .cnt_bubble {{
-        transform-origin: 160px 45px;
-        animation: cnt_bubblePulse 3s ease-in-out infinite;
-      }}
 
-      /* Accessibility: Reduced Motion */
       @media (prefers-reduced-motion: reduce) {{
-        .cnt_anim, .cnt_char, .cnt_arrow, .cnt_bubble {{
+        .cnt_anim, .cnt_char, .cnt_arrow {{
           animation: none !important;
           transform: none !important;
         }}
@@ -73,27 +59,27 @@ def generate_connect():
     </style>
 
     <pattern id="cnt_dotPattern" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#247bff" fill-opacity="0.12"/>
+      <circle cx="2" cy="2" r="1" fill="#247bff" fill-opacity="0.10"/>
     </pattern>
 
     <linearGradient id="cnt_borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#247bff" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#182c55" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#ff354f" stop-opacity="0.8"/>
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#14213d" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ff354f" stop-opacity="0.7"/>
     </linearGradient>
 
-    <linearGradient id="cnt_cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0c1527"/>
-      <stop offset="100%" stop-color="#070b16"/>
+    <linearGradient id="cnt_cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a101f"/>
+      <stop offset="100%" stop-color="#050811"/>
     </linearGradient>
 
     <linearGradient id="cnt_socialCardBg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f1c36"/>
-      <stop offset="100%" stop-color="#091224"/>
+      <stop offset="0%" stop-color="#0c162b"/>
+      <stop offset="100%" stop-color="#080f1e"/>
     </linearGradient>
 
     <radialGradient id="cnt_floorGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#247bff" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#247bff" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#247bff" stop-opacity="0"/>
     </radialGradient>
 
@@ -103,105 +89,97 @@ def generate_connect():
     </radialGradient>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="880" height="380" rx="20" fill="url(#cnt_cardBg)"/>
-  <rect width="880" height="380" rx="20" fill="url(#cnt_dotPattern)"/>
-  <rect width="880" height="380" rx="20" fill="url(#cnt_glowRight)"/>
+  <!-- Background Base Canvas -->
+  <rect width="900" height="400" rx="20" fill="url(#cnt_cardBg)"/>
+  <rect width="900" height="400" rx="20" fill="url(#cnt_dotPattern)"/>
+  <rect width="900" height="400" rx="20" fill="url(#cnt_glowRight)"/>
 
   <!-- Border Hairline -->
-  <rect x="0.6" y="0.6" width="878.8" height="378.8" rx="19.4" fill="none" stroke="url(#cnt_borderGrad)" stroke-width="1.2"/>
+  <rect x="0.6" y="0.6" width="898.8" height="398.8" rx="19.4" fill="none" stroke="url(#cnt_borderGrad)" stroke-width="1.2"/>
 
   <!-- ================= LEFT: POINTING CHARACTER ================= -->
   <g class="cnt_char">
-    <!-- Floor Ambient Glow -->
-    <ellipse cx="170" cy="340" rx="110" ry="18" fill="url(#cnt_floorGlow)"/>
+    <!-- Ambient Floor Glow Pedestal -->
+    <ellipse cx="175" cy="355" rx="120" ry="18" fill="url(#cnt_floorGlow)"/>
 
-    <!-- Exact Character Preserving Alpha & Dimensions -->
+    <!-- Exact Character Preserving Alpha and Proportions -->
     <image href="data:image/png;base64,{POINTING_PNG_B64}" xlink:href="data:image/png;base64,{POINTING_PNG_B64}"
-           x="30" y="55" width="280" height="295" preserveAspectRatio="xMidYMid meet"/>
+           x="30" y="45" width="295" height="320" preserveAspectRatio="xMidYMid meet"/>
 
-    <!-- Interactive Speech Bubble -->
-    <g class="cnt_bubble" transform="translate(100, 22)">
-      <rect width="170" height="30" rx="15" fill="#122347" stroke="#247bff" stroke-width="1"/>
-      <polygon points="40,30 50,30 45,36" fill="#122347" stroke="#247bff" stroke-width="0.8"/>
-      <circle cx="16" cy="15" r="3.5" fill="#38bdf8"/>
-      <text x="28" y="19" class="cnt_mono" font-size="10.5" font-weight="700" fill="#f0f6fc">LET'S CONNECT! 👉</text>
+    <!-- Sleek Tech Badge above character -->
+    <g transform="translate(95, 26)">
+      <rect width="165" height="26" rx="13" fill="#0c1830e6" stroke="#247bff" stroke-width="0.8"/>
+      <circle cx="14" cy="13" r="3.5" fill="#38bdf8"/>
+      <text x="26" y="17" class="cnt_mono" font-size="10" font-weight="700" fill="#f0f6fc">CONNECT // BUILD 🤝</text>
     </g>
   </g>
 
   <!-- ================= RIGHT: GENEROUSLY SPACED SOCIAL CARDS ================= -->
-  <g transform="translate(340, 25)" class="cnt_anim">
+  <g transform="translate(355, 30)" class="cnt_anim">
     <!-- Header -->
-    <text x="0" y="16" class="cnt_mono" font-size="11" font-weight="700" fill="#247bff" letter-spacing="1.2">COMMUNICATION // CHANNELS</text>
+    <text x="0" y="14" class="cnt_mono" font-size="11" font-weight="700" fill="#247bff" letter-spacing="1.2">COMMUNICATION // CHANNELS</text>
     <text x="0" y="44" class="cnt_title" font-size="24" fill="#ffffff">Let's Build Something Intelligent</text>
-    <text x="0" y="65" class="cnt_body" font-size="13" fill="#94a3b8">
-      Open for AI Engineering &amp; Software opportunities • Let's discuss agents, RAG &amp; systems.
+    <text x="0" y="66" class="cnt_body" font-size="13" fill="#94a3b8">
+      Open for AI Engineering &amp; Software roles • Available for collaboration &amp; consultation.
     </text>
 
     <!-- Social Cards Grid: 2 columns x 2 rows -->
     <!-- Card 1: LinkedIn -->
-    <g transform="translate(0, 85)">
-      <rect width="245" height="84" rx="12" fill="url(#cnt_socialCardBg)" stroke="#247bff" stroke-width="1" stroke-opacity="0.45"/>
-      <!-- Icon Container -->
-      <rect x="14" y="18" width="46" height="46" rx="10" fill="#0d1f3d" stroke="#247bff" stroke-width="0.8"/>
-      {icon_markup('linkedin', '#38bdf8', 25, 29, size=24)}
-      <text x="70" y="38" class="cnt_title" font-size="14.5" fill="#ffffff">LinkedIn</text>
-      <text x="70" y="55" class="cnt_mono" font-size="10" fill="#94a3b8">mohamedshakir5665</text>
+    <g transform="translate(0, 88)">
+      <rect width="240" height="88" rx="12" fill="url(#cnt_socialCardBg)" stroke="#247bff" stroke-width="1" stroke-opacity="0.45"/>
+      <rect x="14" y="20" width="48" height="48" rx="10" fill="#091428" stroke="#247bff" stroke-width="0.8"/>
+      {icon_markup('linkedin', '#38bdf8', 26, 32, size=24)}
+      <text x="72" y="40" class="cnt_title" font-size="15" fill="#ffffff">LinkedIn</text>
+      <text x="72" y="58" class="cnt_mono" font-size="10" fill="#94a3b8">mohamedshakir5665</text>
       <!-- Nudging Arrow -->
-      <g class="cnt_arrow" transform="translate(210, 42)">
+      <g class="cnt_arrow" transform="translate(206, 44)">
         <path d="M 0 0 L 10 0 M 6 -4 L 10 0 L 6 4" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </g>
     </g>
 
     <!-- Card 2: GitHub -->
-    <g transform="translate(260, 85)">
-      <rect width="245" height="84" rx="12" fill="url(#cnt_socialCardBg)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4"/>
-      <!-- Icon Container -->
-      <rect x="14" y="18" width="46" height="46" rx="10" fill="#131c2d" stroke="#38bdf8" stroke-width="0.8"/>
-      {icon_markup('github', '#ffffff', 25, 29, size=24)}
-      <text x="70" y="38" class="cnt_title" font-size="14.5" fill="#ffffff">GitHub</text>
-      <text x="70" y="55" class="cnt_mono" font-size="10" fill="#94a3b8">@Shakir5665</text>
-      <!-- Nudging Arrow -->
-      <g class="cnt_arrow" transform="translate(210, 42)">
+    <g transform="translate(255, 88)">
+      <rect width="240" height="88" rx="12" fill="url(#cnt_socialCardBg)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4"/>
+      <rect x="14" y="20" width="48" height="48" rx="10" fill="#0c121e" stroke="#38bdf8" stroke-width="0.8"/>
+      {icon_markup('github', '#ffffff', 26, 32, size=24)}
+      <text x="72" y="40" class="cnt_title" font-size="15" fill="#ffffff">GitHub</text>
+      <text x="72" y="58" class="cnt_mono" font-size="10" fill="#94a3b8">@Shakir5665</text>
+      <g class="cnt_arrow" transform="translate(206, 44)">
         <path d="M 0 0 L 10 0 M 6 -4 L 10 0 L 6 4" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </g>
     </g>
 
     <!-- Card 3: Email -->
-    <g transform="translate(0, 185)">
-      <rect width="245" height="84" rx="12" fill="url(#cnt_socialCardBg)" stroke="#ff354f" stroke-width="1" stroke-opacity="0.45"/>
-      <!-- Icon Container -->
-      <rect x="14" y="18" width="46" height="46" rx="10" fill="#29121a" stroke="#ff354f" stroke-width="0.8"/>
-      {icon_markup('gmail', '#ff354f', 25, 29, size=24)}
-      <text x="70" y="38" class="cnt_title" font-size="14.5" fill="#ffffff">Email</text>
-      <text x="70" y="55" class="cnt_mono" font-size="9" fill="#94a3b8">mohamedsakir3456</text>
-      <!-- Nudging Arrow -->
-      <g class="cnt_arrow" transform="translate(210, 42)">
+    <g transform="translate(0, 192)">
+      <rect width="240" height="88" rx="12" fill="url(#cnt_socialCardBg)" stroke="#ff354f" stroke-width="1" stroke-opacity="0.45"/>
+      <rect x="14" y="20" width="48" height="48" rx="10" fill="#200d14" stroke="#ff354f" stroke-width="0.8"/>
+      {icon_markup('gmail', '#ff354f', 26, 32, size=24)}
+      <text x="72" y="40" class="cnt_title" font-size="15" fill="#ffffff">Direct Email</text>
+      <text x="72" y="58" class="cnt_mono" font-size="9" fill="#94a3b8">mohamedsakir3456</text>
+      <g class="cnt_arrow" transform="translate(206, 44)">
         <path d="M 0 0 L 10 0 M 6 -4 L 10 0 L 6 4" stroke="#ff354f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </g>
     </g>
 
     <!-- Card 4: WhatsApp -->
-    <g transform="translate(260, 185)">
-      <rect width="245" height="84" rx="12" fill="url(#cnt_socialCardBg)" stroke="#10b981" stroke-width="1" stroke-opacity="0.45"/>
-      <!-- Icon Container -->
-      <rect x="14" y="18" width="46" height="46" rx="10" fill="#10261e" stroke="#10b981" stroke-width="0.8"/>
-      {icon_markup('whatsapp', '#25d366', 25, 29, size=24)}
-      <text x="70" y="38" class="cnt_title" font-size="14.5" fill="#ffffff">WhatsApp</text>
-      <text x="70" y="55" class="cnt_mono" font-size="10" fill="#94a3b8">+94 75 295 8134</text>
-      <!-- Nudging Arrow -->
-      <g class="cnt_arrow" transform="translate(210, 42)">
+    <g transform="translate(255, 192)">
+      <rect width="240" height="88" rx="12" fill="url(#cnt_socialCardBg)" stroke="#10b981" stroke-width="1" stroke-opacity="0.45"/>
+      <rect x="14" y="20" width="48" height="48" rx="10" fill="#0d1f18" stroke="#10b981" stroke-width="0.8"/>
+      {icon_markup('whatsapp', '#25d366', 26, 32, size=24)}
+      <text x="72" y="40" class="cnt_title" font-size="15" fill="#ffffff">WhatsApp Direct</text>
+      <text x="72" y="58" class="cnt_mono" font-size="10" fill="#94a3b8">+94 75 295 8134</text>
+      <g class="cnt_arrow" transform="translate(206, 44)">
         <path d="M 0 0 L 10 0 M 6 -4 L 10 0 L 6 4" stroke="#25d366" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
       </g>
     </g>
 
-    <!-- Portfolio Footer Banner -->
-    <g transform="translate(0, 285)">
-      <rect width="505" height="40" rx="10" fill="#091428" stroke="#247bff" stroke-width="0.8" stroke-opacity="0.5"/>
-      <circle cx="20" cy="20" r="4" fill="#38bdf8"/>
-      <text x="34" y="24" class="cnt_mono" font-size="11" font-weight="700" fill="#38bdf8">PORTFOLIO // </text>
-      <text x="135" y="24" class="cnt_mono" font-size="11" fill="#cbd5e1">shakir-portfolio-one-amber-87.vercel.app</text>
-      <g class="cnt_arrow" transform="translate(475, 20)">
+    <!-- Bottom Portfolio Banner -->
+    <g transform="translate(0, 296)">
+      <rect width="495" height="42" rx="10" fill="#081020" stroke="#247bff" stroke-width="0.8" stroke-opacity="0.5"/>
+      <circle cx="20" cy="21" r="4" fill="#38bdf8"/>
+      <text x="34" y="25" class="cnt_mono" font-size="11" font-weight="700" fill="#38bdf8">PORTFOLIO // </text>
+      <text x="135" y="25" class="cnt_mono" font-size="11" fill="#e2e8f0">shakir-portfolio-one-amber-87.vercel.app</text>
+      <g class="cnt_arrow" transform="translate(465, 21)">
         <path d="M 0 0 L 8 0 M 5 -3 L 8 0 L 5 3" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" fill="none"/>
       </g>
     </g>
@@ -209,7 +187,7 @@ def generate_connect():
 </svg>"""
     with open('assets/connect.svg', 'w', encoding='utf-8') as f:
         f.write(svg)
-    print("assets/connect.svg generated successfully.")
+    print("assets/connect.svg re-generated successfully.")
 
 if __name__ == '__main__':
     generate_connect()

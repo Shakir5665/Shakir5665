@@ -26,13 +26,13 @@
 
 ## 🚀 Featured Engineering Projects
 
-| Project | Architecture & Stack | Focus & Capabilities | Links |
+| Project | Architecture & Stack | Highlights & Capabilities | Direct Links |
 | :--- | :--- | :--- | :--- |
-| **AI-Powered Business Risk Analysis** | `Python` `XLM-RoBERTa` `Fuzzy Inference` `NLP` | Multilingual NLP system analyzing Sinhala, English, and code-mixed customer reviews with fuzzy rules and business risk mitigation. | [GitHub Repo](https://github.com/Shakir5665/AI-Powered-Business-Risk-Analysis-and-Recommendation-System-for-Online-Businesses) |
-| **FOT Buddy — AI Agent Integration** | `Google Gemini` `Function Calling` `RAG` `MongoDB Atlas` | Autonomous agent integration for university student portal (FOT Hub) with semantic vector search and academic assistant capabilities. | [GitHub Repo](https://github.com/ShaheekaFarvin/FOT_HUB_DEV.git) |
-| **DocQuery-AI — PDF RAG Assistant** | `LangChain` `FAISS` `Gemini API` `Streamlit` | Full document question-answering assistant utilizing vector chunk retrieval, citation grounding, and responsive UI. | [Live Demo](https://docquery-frontend-dxdc.onrender.com) • [GitHub Repo](https://github.com/Shakir5665/DocQuery-AI) |
-| **Smart Gym Management & Retention** | `React` `Node.js` `MongoDB` `Socket.io` | Full-stack member registration, attendance monitoring, payment tracking, subscription validation, and real-time dashboard sync. | [GitHub Repo](https://github.com/Shakir5665/gym-management-system.git) |
-| **HRPay Nexus — Payroll & HR Platform** | `React` `ASP.NET Core` `PostgreSQL` `EF Core` | Enterprise platform featuring JWT authentication, RBAC, BCrypt hashing, EF Core migrations, distributed caching, and rate limiting. | [GitHub Repo](https://github.com/Shakir5665/HRPay-Nexus.git) |
+| **AI-Powered Business Risk Analysis** | `Python` `XLM-RoBERTa` `Fuzzy Inference` `NLP` | Multilingual NLP pipeline analyzing Sinhala, English, and code-mixed reviews with fuzzy inference business risk mitigation. | [GitHub Repository](https://github.com/Shakir5665/AI-Powered-Business-Risk-Analysis-and-Recommendation-System-for-Online-Businesses) |
+| **FOT Buddy — AI Agent Integration** | `Google Gemini` `Function Calling` `RAG` `MongoDB Atlas` | Autonomous agent integration for university portal (FOT Hub) with semantic vector search and multi-turn student queries. | [GitHub Repository](https://github.com/ShaheekaFarvin/FOT_HUB_DEV.git) |
+| **DocQuery-AI — PDF RAG Assistant** | `LangChain` `FAISS` `Gemini API` `Streamlit` | Production-grade document QA assistant featuring high-dimensional chunk indexing, grounded citations, and responsive UI. | [Live Application](https://docquery-frontend-dxdc.onrender.com) • [GitHub](https://github.com/Shakir5665/DocQuery-AI) |
+| **Smart Gym Management & Retention** | `React` `Node.js` `MongoDB` `Socket.io` | Full-stack platform with real-time attendance tracking, automated subscription validation, and live WebSocket dashboard synchronization. | [GitHub Repository](https://github.com/Shakir5665/gym-management-system.git) |
+| **HRPay Nexus — Payroll & HR Platform** | `React` `ASP.NET Core` `PostgreSQL` `EF Core` | Robust multi-tier platform featuring JWT authentication, role-based access control, BCrypt password security, caching, and rate limiting. | [GitHub Repository](https://github.com/Shakir5665/HRPay-Nexus.git) |
 
 <br/>
 
@@ -45,10 +45,10 @@
 
   <br/><br/>
 
-  <!-- Clickable Social & Contact Links (GitHub SVG images cannot be clicked directly) -->
+  <!-- Clickable Social & Contact Links -->
   <p align="center">
     <a href="https://shakir-portfolio-one-amber-87.vercel.app" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-070B16?style=for-the-badge&logo=vercel&logoColor=247BFF" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/Portfolio-050811?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio Website" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/mohamedshakir5665" target="_blank" rel="noopener noreferrer">
@@ -66,10 +66,6 @@
     <a href="https://wa.me/94752958134" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/WhatsApp-+94_75_295_8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct" />
     </a>
-  </p>
-
-  <p align="center">
-    <sub>Crafted with precision • Deep Navy #070B16, Electric Blue #247BFF &amp; Crimson #FF354F • 100% Self-Contained Vector Graphics</sub>
   </p>
 
 </div>

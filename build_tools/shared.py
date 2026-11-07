@@ -22,11 +22,9 @@ with open('assets/icons.json', 'r') as f:
 
 FONT_LICENSE_COMMENT = """<!--
   EMBEDDED FONTS LICENSES:
-  1. Space Grotesk (Bold): Copyright 2020 The Space Grotesk Project Authors.
-     Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
-  2. JetBrains Mono (Medium, Bold): Copyright 2020 The JetBrains Mono Project Authors.
-     Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
-  Full license text is included in assets/fonts/LICENSE.txt.
+  1. Space Grotesk (Bold): Copyright 2020 The Space Grotesk Project Authors (SIL Open Font License 1.1).
+  2. JetBrains Mono (Medium, Bold): Copyright 2020 The JetBrains Mono Project Authors (SIL Open Font License 1.1).
+  Full license text is located in assets/fonts/LICENSE.txt.
 -->"""
 
 COMMON_FONTS_CSS = f"""
@@ -52,5 +50,3 @@ COMMON_FONTS_CSS = f"""
       src: url('data:font/woff2;base64,{JB_MONO_BOLD_B64}') format('woff2');
     }}
 """
-
-print("shared.py loaded successfully. Font and image assets ready.")

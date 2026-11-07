@@ -94,7 +94,6 @@ def audit_code():
 
 def render_suite():
     print("\n=== 2. RENDERING VERIFICATION (0s, 2s, 5s, 9s, 13s, static, img) ===")
-    abs_dir = os.path.abspath('.').replace('\\', '/')
 
     with sync_playwright() as p:
         browser = p.chromium.launch(channel="msedge", headless=True)
@@ -105,7 +104,7 @@ def render_suite():
 
             # 1. Render at each timestamp
             for t in TIMESTAMPS:
-                page = browser.new_page(viewport={"width": 940, "height": 600})
+                page = browser.new_page(viewport={"width": 960, "height": 600})
                 page.goto(f"file:///{abs_svg}")
                 if t > 0:
                     page.evaluate(f"""() => {{
@@ -123,7 +122,7 @@ def render_suite():
                 page.close()
 
             # 2. Render with animation removed (prefers-reduced-motion)
-            page = browser.new_page(viewport={"width": 940, "height": 600})
+            page = browser.new_page(viewport={"width": 960, "height": 600})
             page.emulate_media(reduced_motion="reduce")
             page.goto(f"file:///{abs_svg}")
             page.wait_for_timeout(200)
@@ -131,8 +130,7 @@ def render_suite():
             page.locator("svg").screenshot(path=out_static)
             page.close()
 
-            # 3. Render as <img> element at desktop width (880px)
-            # Create a dedicated temp html in repository directory
+            # 3. Render as <img> element at desktop width (880px) and mobile width (370px)
             temp_html_path = f"build_tools/temp_{base_name}.html"
             temp_html = f"""<!DOCTYPE html>
 <html>
@@ -157,11 +155,10 @@ def render_suite():
                 f.write(temp_html)
 
             abs_temp_html = os.path.abspath(temp_html_path).replace('\\', '/')
-            page = browser.new_page(viewport={"width": 1000, "height": 1200})
+            page = browser.new_page(viewport={"width": 1000, "height": 1300})
             page.goto(f"file:///{abs_temp_html}")
             page.wait_for_timeout(500)
 
-            # Check bounding boxes
             box_desktop = page.locator("#img_desktop").bounding_box()
             box_mobile = page.locator("#img_mobile").bounding_box()
             print(f"  {base_name} as <img> desktop box: {box_desktop['width']:.1f}x{box_desktop['height']:.1f}")
@@ -175,8 +172,17 @@ def render_suite():
             page.close()
             os.remove(temp_html_path)
 
+        # Also capture a full screenshot of preview.html
+        abs_preview = os.path.abspath('preview.html').replace('\\', '/')
+        page = browser.new_page(viewport={"width": 1100, "height": 2800})
+        page.goto(f"file:///{abs_preview}")
+        page.wait_for_timeout(800)
+        page.screenshot(path="test_renders/full_preview_page.png", full_page=True)
+        page.close()
+        print("  Captured test_renders/full_preview_page.png (Full README preview snapshot)")
+
         browser.close()
-    print("\nAll rendering tests passed with full dimension verification!")
+    print("\nAll verification and rendering tests completed successfully!")
 
 if __name__ == '__main__':
     if audit_code():
